@@ -1,3 +1,3 @@
-require_relative 'greeter'
+require './greeter'
 
 run Greeter.new
